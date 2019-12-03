@@ -5,7 +5,8 @@ The Observer pattern is a software design pattern in which an object called the 
 When to Use the Observer Pattern
 
 When you need many other objects to receive an update when another object changes
-e.g : 
+
+	e.g : 
 	Stock market with thousands of stocks need to send updates to object representing individual stocks.
 	
 	The subject(publisher) sends many stocks to the observers.
